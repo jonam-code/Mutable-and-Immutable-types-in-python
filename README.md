@@ -5,7 +5,6 @@ As a 1st initiative he wants to build a program to store university details of C
 
 Since you are the budding data scientists please help him in achieving his accomplishments.    
 
-
 NOTE: For the sake of simplicity course, teachers and students details can be restricted to MDS program of computer science department.
 
 
